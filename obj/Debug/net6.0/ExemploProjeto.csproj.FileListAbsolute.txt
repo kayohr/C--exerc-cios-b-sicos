@@ -1,0 +1,15 @@
+/home/est/doteNetC#/ExemploProjeto/bin/Debug/net6.0/ExemploProjeto
+/home/est/doteNetC#/ExemploProjeto/bin/Debug/net6.0/ExemploProjeto.deps.json
+/home/est/doteNetC#/ExemploProjeto/bin/Debug/net6.0/ExemploProjeto.runtimeconfig.json
+/home/est/doteNetC#/ExemploProjeto/bin/Debug/net6.0/ExemploProjeto.dll
+/home/est/doteNetC#/ExemploProjeto/bin/Debug/net6.0/ref/ExemploProjeto.dll
+/home/est/doteNetC#/ExemploProjeto/bin/Debug/net6.0/ExemploProjeto.pdb
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.csproj.AssemblyReference.cache
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.AssemblyInfoInputs.cache
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.AssemblyInfo.cs
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.csproj.CoreCompileInputs.cache
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.dll
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ref/ExemploProjeto.dll
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.pdb
+/home/est/doteNetC#/ExemploProjeto/obj/Debug/net6.0/ExemploProjeto.genruntimeconfig.cache
